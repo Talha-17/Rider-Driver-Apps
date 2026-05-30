@@ -1,2 +1,0 @@
-- [react-native-maps web stub](rnmaps-web-stub.md) — pin at 1.18.0, never add to app.json plugins, always stub via Metro resolver for web
-- [WebSocket server pattern](ws-server-pattern.md) — use noServer:true + http.createServer upgrade delegation at /api/ws
